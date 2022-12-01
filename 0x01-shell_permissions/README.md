@@ -1,2 +1,1 @@
-this script will switch the curent user to betty
-effective current user
+shell commands for permissions
